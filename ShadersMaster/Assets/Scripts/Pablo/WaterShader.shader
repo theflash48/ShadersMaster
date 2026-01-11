@@ -1,4 +1,4 @@
-Shader "Custom/ShaderOlas"
+Shader "Custom/WaterShader"
 {
     Properties
     {
